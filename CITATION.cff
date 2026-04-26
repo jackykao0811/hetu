@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Kao
+    given-names: Yao-Kai
+    email: jackykao0811@gmail.com
+    affiliation: "Institute of Brain Science, NYCU"
+title: "hetu: He-Tu Symmetry-Constrained Projection Library"
+version: 1.0.0
+doi: 10.5281/zenodo.19784150
+date-released: 2026-04-26
+url: "https://github.com/jackykao0811/hetu"
+preferred-citation:
+  type: article
+  title: "Genesis 3D-HLBM: A Symmetry-Constrained Discrete Lattice Model
+          with Bounded Energy Dynamics and a PDE Energy Bridge"
+  authors:
+    - family-names: Kao
+      given-names: Yao-Kai
+  year: 2026
+  doi: 10.5281/zenodo.19784150
